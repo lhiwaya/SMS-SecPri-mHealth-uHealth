@@ -25,4 +25,4 @@ Cite this work:
 }
 ```
 
-Contact the author: leonardo.iwaya@adelaide.edu.au
+Contact the author: leonardo.iwaya@kau.se
